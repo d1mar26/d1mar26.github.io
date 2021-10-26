@@ -1,14 +1,14 @@
-.img-box{
+.img-box {
 	column-count: 3;
 	column-gap: 1px;
 }
 
-.image{
+.image {
 	max-width: 100%;
 	display: block;
 }
 
-.H {
+.h {
 	font-size: 64px;
 	background-color: lightgrey;
 	text-align: center;
@@ -21,3 +21,8 @@
 	margin: auto;
 	background-color: white;
 } 
+
+
+
+
+
