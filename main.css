@@ -1,0 +1,27 @@
+.img-box{
+	column-count: 3;
+	column-gap: 1px;
+}
+
+.image{
+	max-width: 100%;
+	display: block;
+}
+
+.H {
+	font-size: 64px;
+	background-color: lightgrey;
+	text-align: center;
+}
+
+.main {
+	display: block;
+	box-shadow: 0 0 10px 1px rgba(0 0 0 / 60%);
+	width: 90%;
+	margin: auto;
+	background-color: white;
+} 
+
+body {
+	background-color: pink;
+}
